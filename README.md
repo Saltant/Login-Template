@@ -1,5 +1,5 @@
-# WinForms
-CSharp Windows Forms Projects
+# Login Template
+CSharp Windows Forms Basic Login Template
 
 Basic login template.
 First window is Login Form, after login (if success) opening Main Window.
